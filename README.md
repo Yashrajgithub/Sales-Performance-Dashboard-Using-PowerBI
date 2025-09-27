@@ -25,7 +25,7 @@ The **Sales Performance Dashboard** is an interactive Power BI project designed 
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/Prashant501Tyagi/Sales_Performance_Dashboard.git
+   https://github.com/Yashrajgithub/Sales-Performance-Dashboard-Using-PowerBI.git
 ## 🛠️ How to Get Started
 
 ### Open the Dashboard
